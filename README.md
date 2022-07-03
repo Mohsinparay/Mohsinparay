@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mohsinparay
 - 👀 I’m interested in Web Development Programing etc
-- 🌱 I’m currently learning .jammu and kashmir
-- 
+- 🌱 I’m currently learning
+  ✨Living in jammu and kashmir
+- ✨ special ✨
 - 📫 How to reach me 
 - www.instagram.com/mohsinparay5
 
